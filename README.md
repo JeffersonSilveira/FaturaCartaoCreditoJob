@@ -8,7 +8,7 @@ Acesse o arquivo "application.properties" adicione a configuração da sua base 
 spring.datasource.jdbcUrl=jdbc:mysql://localhost:3306/spring_batch
 spring.datasource.username=user
 spring.datasource.password=passwrod
-app.datasource.jdbcUrl=jdbc:mysql://localhost:3306/migracao_dados
+app.datasource.jdbcUrl=jdbc:mysql://localhost:3306/fatura_cartao_credito
 app.datasource.username=user
 app.datasource.password=password
 spring.batch.initialize-schema=always
